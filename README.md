@@ -1,3 +1,3 @@
 # Capstone
-성훈 
-동환
+성훈
+donghwan
